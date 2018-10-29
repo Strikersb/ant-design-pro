@@ -99,6 +99,11 @@ export default [
             component: './List/TableList',
           },
           {
+            path: '/list/table-in-table',
+            name: 'tableInTable',
+            component: './List/TableInTable',
+          },
+          {
             path: '/list/basic-list',
             name: 'basiclist',
             component: './List/BasicList',

@@ -80,6 +80,7 @@ export default {
   'menu.form.advancedform': '高级表单',
   'menu.list': '列表页',
   'menu.list.searchtable': '查询表格',
+  'menu.list.tableInTable': '表格中嵌套表格',
   'menu.list.basiclist': '标准列表',
   'menu.list.cardlist': '卡片列表',
   'menu.list.searchlist': '搜索列表',
