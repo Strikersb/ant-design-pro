@@ -2,6 +2,7 @@
 import React from 'react';
 import { Table, Badge, Menu, Dropdown, Icon, Card } from 'antd';
 import PageHeaderWrapper from '@/components/PageHeaderWrapper';
+import './tableintable.css';
 
 const menu = (
   <Menu>
